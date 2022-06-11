@@ -30,16 +30,19 @@
     .bordar_right {
       border-right: 0.1rem solid gray;
     }
+    
     .right_content {
       text-align: left;
       padding-left: 1rem;
     }
+   
     .middle_content{
       display: flex;
       flex-direction: row-reverse;
     }
     .icon{
     display: inline-block;
+    margin-right: .5rem;
     }
   }
 

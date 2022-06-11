@@ -4,7 +4,3 @@ import "bootstrap"; //or
 
 //importing sass file
 import "../styles/index.scss";
-
-// damo
-const hi = "hi all 1";
-console.log("hi");

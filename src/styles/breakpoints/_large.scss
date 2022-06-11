@@ -2,12 +2,15 @@
 @media (min-width: 992px) {
   // INTEO SECTION
   #intro {
-    padding-top: 6.2rem;
+    padding-top: 7.5rem;
   }
 
   // SERVICES SECTION
   #services {
     padding-top: 1.25rem;
+    .icon{
+      margin-right: .75rem;
+    }
   }
 
    // FOOTER SECTION 
